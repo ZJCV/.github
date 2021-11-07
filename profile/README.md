@@ -1,47 +1,40 @@
-<div align="right">
-  Language:
-    🇺🇸
-  <a title="Chinese" href="./README.zh-CN.md">🇨🇳</a>
-</div>
 
-<!-- ### Hi there 👋 -->
+# About ME
 
-<!--
-**zjykzj/zjykzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer vision development engineer. I am currently working with an AI startup company to develop recognition algorithms for fruits and vegetables.
 
-Here are some ideas to get you started:
+At present,  I focus on the development and optimization of object recognition algorithms, including object classification (coarse-grained and fine-grained), network pruning and knowledge transfer.
 
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning
 
-<h2 align="center">Hi 👋, I'm zjykzj</h2>
-<h3 align="center">Computer vision engineer</h3>
+* master (2015-2019):  Computer science and technology, Zhejiang Sci-Tech University, China
+* bachelor (2011-2015): Electronic information science and technology, Zhejiang Sci-Tech University, China
 
-### ✨ Quick Facts
+## Career
 
-- 🔭 I am currently working in the AI start-up company YOYO
+* Computer vision development engineer (yoyo, 2021 - now): Identify vegetables and fruits
+* Machine vision development engineer (webace-i3c, 2020 - 2021): video understanding, object detection and OCR algorithm development
 
-- 🌱 I'm currently focused on object classification, network pruning and knowledge transfer
+## Open Source
 
-- 👯 Welcome to the other two organizations: [ZJCV](https://github.com/ZJCV) and [ZJDoc](https://github.com/ZJDoc)
+* [ ZJCV/ZCls](https://github.com/ZJCV/ZCls): Object Classification Training/Inferring Framework 
+* [ ZJCV/RotNet](https://github.com/ZJCV/RotNet): Image rotation correction based on DeepLearning
+* Fine-grained
+  * [ ZJCV/DCL](https://github.com/ZJCV/DCL): [CVPR 2019] Destruction and Construction Learning for Fine-grained Image Recognition 
+* Distillating
+  * [ZJCV/KnowledgeReview](https://github.com/ZJCV/KnowledgeReview): [CVPR 2021] Distilling Knowledge via Knowledge Review
+  * [ ZJCV/overhaul](https://github.com/ZJCV/overhaul): [ICCV 2019] A Comprehensive Overhaul of Feature Distillation
+* Pruning
+  * [ ZJCV/NetworkSlimming](https://github.com/ZJCV/NetworkSlimming): [ICCV 2017] Learning Efficient Convolutional Networks through Network Slimming 
+  * [ZJCV/SSL](https://github.com/ZJCV/SSL):  [NIPS 2016] Learning Structured Sparsity in Deep Neural Networks 
+* Video Understanding
+  * [ZJCV/X3D](https://github.com/ZJCV/X3D): [CVPR 2020] X3D: Expanding Architectures for Efficient Video Recognition 
+  * [ZJCV/TSM](https://github.com/ZJCV/TSM): [ICCV 2019] TSM: Temporal Shift Module for Efficient Video Understanding 
+* Tool
+  * [ zjykzj/pnno](https://github.com/zjykzj/pnno): dataset or annotation file format conversion 
+  * [ zjykzj/zlogo](https://github.com/zjykzj/zlogo): A tool using logo.svg and svglib to generate custom logo
+  * [ zjykzj/MPDataset](https://github.com/zjykzj/MPDataset): Custom Iterable Dataset class for large-scale data loading 
 
-- 📫 How to reach me: **wy163zhuj@163.com**
+## Contact
 
-- 📄 Know more: [about zjykzj](./profile.md)
-
-### 🛠️ Languages and Tools:
-
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
-
-### 👣 Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjykzj&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjykzj)](https://github.com/anuraghazra/github-readme-stats) -->
+* Email: wy163zhuj@163.com
