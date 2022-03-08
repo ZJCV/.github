@@ -30,6 +30,6 @@ I am a computer vision development engineer. I am currently focusing on the deve
   * [ zjykzj/pnno](https://github.com/zjykzj/pnno): dataset or annotation file format conversion 
   * [ zjykzj/zlogo](https://github.com/zjykzj/zlogo): A tool using logo.svg and svglib to generate custom logo
 
-## More
+## Know More
 
 See [Zhu Jian's Homepage](https://github.com/zjykzj/zjykzj/blob/main/profile.md)
